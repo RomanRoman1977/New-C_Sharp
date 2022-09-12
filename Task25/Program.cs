@@ -16,4 +16,4 @@ while (count <= b)
     degree = degree * a;
     count++;
 }
-Console.WriteLine($"Число {a} возведенное в натуральную степень числа {b} = {degree}");!");
+Console.WriteLine($"Число {a} возведенное в натуральную степень числа {b} = {degree}");
